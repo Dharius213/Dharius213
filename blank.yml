@@ -1,0 +1,2 @@
+- nombre: Implementar en Cloudflare Workers con Wrangler
+  usos: cloudflare/wrangler-action@1.2.0
